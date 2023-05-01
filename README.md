@@ -23,7 +23,7 @@
 
 🧰 My toolbox
 ---
-[![My Skills](https://skillicons.dev/icons?i=react,firebase,nextjs,nextjs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,materialui,tailwind,bootstrap,redux,prisma,docker,figma,firebase,nestjs,ps,illustrator&perline=5&theme=dark)](https://skillicons.dev)
 
 <!--
 **ysl0628/ysl0628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
