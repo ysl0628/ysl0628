@@ -8,9 +8,9 @@
 🍙 About me
 ---
 
-- 🌱 I’m a Front-end developer.
-- 🔭 I’m currently working on the IoT industry
-- ⚡ Fun fact: I'm a dietitian
+- 🌱 I'm a Front-end developer.
+- 🔭 I'm currently working at ezTravel on a travel merchandise website.
+- ⚡ Fun fact: I'm a dietitian.
 
 📊 Stats
 ---
