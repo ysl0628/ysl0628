@@ -10,7 +10,7 @@
 
 - 🌱 I'm a Front-end developer.
 - 🔭 I'm currently working at ezTravel on a travel merchandise website.
-- ⚡ Fun fact: I'm a dietitian.
+- ⚡ Fun fact: I'm a dietitian and a baking lover.
 
 📊 Stats
 ---
