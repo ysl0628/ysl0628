@@ -14,12 +14,11 @@
 
 📊 Stats
 ---
-
-[![Renee Lan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysl0628&theme=dark&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+[![Renee Lan's GitHub stats](https://github-stats-extended.vercel.app/api?username=ysl0628&theme=dark&card_width=495)](https://github.com/stats-organization/github-stats-extended)
 <br/>
-[![Renee Lan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysl0628&theme=dark&layout=compact&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+[![Renee Lan's Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ysl0628&theme=dark&layout=compact&card_width=495)](https://github.com/stats-organization/github-stats-extended)
 <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ysl0628&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ysl0628&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 🧰 My toolbox
 ---
